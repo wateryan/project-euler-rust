@@ -1,0 +1,11 @@
+[package]
+name = "Project Euler Solutions"
+version = "0.1.0"
+authors = ["Ryan Waters <wateryan280@gmail.com>"]
+
+[[example]]
+name = "ProjectEuler"
+path = "src/bin/"
+
+[dependencies]
+num = "0.1"
