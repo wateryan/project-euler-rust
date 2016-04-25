@@ -3,9 +3,53 @@ name = "Project Euler Solutions"
 version = "0.1.0"
 authors = ["Ryan Waters <wateryan280@gmail.com>"]
 
-[[example]]
-name = "ProjectEuler"
-path = "src/bin/"
+[[bin]]
+name = "problem1"
+path = "src/bin/problem1.rs"
+
+[[bin]]
+name = "problem2"
+path = "src/bin/problem2.rs"
+
+[[bin]]
+name = "problem3"
+path = "src/bin/problem3.rs"
+
+[[bin]]
+name = "problem4"
+path = "src/bin/problem4.rs"
+
+[[bin]]
+name = "problem5"
+path = "src/bin/problem5.rs"
+
+[[bin]]
+name = "problem6"
+path = "src/bin/problem6.rs"
+
+[[bin]]
+name = "problem7"
+path = "src/bin/problem7.rs"
+
+[[bin]]
+name = "problem8"
+path = "src/bin/problem8.rs"
+
+[[bin]]
+name = "problem9"
+path = "src/bin/problem9.rs"
+
+[[bin]]
+name = "problem10"
+path = "src/bin/problem10.rs"
+
+[[bin]]
+name = "problem11"
+path = "src/bin/problem11.rs"
+
+[[bin]]
+name = "problem12"
+path = "src/bin/problem12.rs"
 
 [dependencies]
 num = "0.1"
